@@ -6,6 +6,8 @@ Onestop-advanceAI/Onestop-advanceAI is a ✨ special ✨ repository because its 
 You can click the Preview link to take a look at your changes.
 --->
 
+![Onestop](image  "One Stop")
+
 # Introduction
 What is OSP? Please read introduction here [AdvanceAI One-Stop-Platform](https://id-oop.advance.ai/)
 One-stop Orchestration Platform consists of a web portal and back-end engines. 
