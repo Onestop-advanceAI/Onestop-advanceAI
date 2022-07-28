@@ -1,6 +1,33 @@
-- 📫 Thank you to reach Onestop Orchestration Platform (OSP) from AdvanceAI. This document will guide you to complete integration of your system with OSP. 
+- We are One-stop Orchestration Platform (OSP) from AdvanceAI.
+- 📫 Thank you to reach us. This document will guide you integration of your system with OSP.
 
 <!---
 Onestop-advanceAI/Onestop-advanceAI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+# Introduction
+What is OSP? Please read introduction here [AdvanceAI One-Stop-Platform](https://id-oop.advance.ai/)
+One-stop Orchestration Platform consists of a web portal and back-end engines. 
+A portal allows customer operators to orchestrates their business components into a workflow. An engine, on the other side, is capable of executing the workflow with input data and producing a risk result.
+
+# For New Customers
+- How to create your account? 
+- How to configure workflow?
+- How to launch workflow? 
+    - Launch via HTTP client (e.g. Postman, curl console)
+    - Launch via H5
+    - launch via SDK
+    
+- How to get result?
+- How to do integration?
+
+# For Advanced Customers
+- How to do Anti Money Laundering(AML)?
+
+
+# Helpful links
+- Tech blogs.
+- How to submit tickets. 
+
+## Support 
