@@ -11,6 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 # Introduction
 What is OSP? Please read introduction here [AdvanceAI One-Stop-Platform](https://id-oop.advance.ai/)
+
 One-stop Orchestration Platform consists of a web portal and back-end engines. 
 A portal allows customer operators to orchestrates their business components into a workflow. An engine, on the other side, is capable of executing the workflow with input data and producing a risk result.
 
@@ -34,3 +35,9 @@ A portal allows customer operators to orchestrates their business components int
 - How to submit tickets. 
 
 ## Support 
+If you have any questions, please contact Onestop Customer Service at tom.xu@advancegroup.com.
+
+# 
+© AdavnceAI, Beijing, China
+
+
