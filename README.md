@@ -1,5 +1,5 @@
 - We are One-stop Orchestration Platform (OSP) from AdvanceAI.
-- 📫 Thank you to reach us. This document will guide you integration of your system with OSP.
+- 📫 Thank you to reach us. This document introduces OSP and how to do integration.
 
 <!---
 Onestop-advanceAI/Onestop-advanceAI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
