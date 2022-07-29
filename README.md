@@ -25,6 +25,8 @@ A portal allows customer operators to orchestrates their business components int
     
 - How to get result?
 - How to do integration?
+- Best practices for KYC.
+- Best practices for AML.
 
 # For Advanced Customers
 - How to do Anti Money Laundering(AML)?
